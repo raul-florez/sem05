@@ -2,6 +2,7 @@
 - [TITULO](#titulo-importante)
 - [HIPERVINCULOS](#Creando-hiperv)
 - [COLOCAR IMAGENES](#colocar-imágenes)
+- [FUNCIONES](#funciones)
 # Titulo Importante
 Me encuentro aprendiendo *Markdown* en las clases del profesor
 Luis Pallin..
@@ -16,7 +17,7 @@ usando ~~Markdown~~.
 [Tecsup](https://www.tecsup.edu.pe)
 
 ## Colocar Imágenes
-![Imagen Principal](img01.jpg)
+![Imagen Principal](ga.jpg)
 
 ## Funciones
 - [X] Registrar Alumno
